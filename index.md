@@ -1,37 +1,79 @@
-## Welcome to Squared Away Home Inspections
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
 
-You can use the [editor on GitHub](https://github.com/SpenceNasty/SpenceNasty.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Welcome to Squared Away Home Inspections | SpenceNasty.github.io</title>
+<meta name="generator" content="Jekyll v3.7.4" />
+<meta property="og:title" content="Welcome to Squared Away Home Inspections" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Squared Away Home Inspections" />
+<meta property="og:description" content="Squared Away Home Inspections" />
+<link rel="canonical" href="https://spencenasty.github.io/" />
+<meta property="og:url" content="https://spencenasty.github.io/" />
+<meta property="og:site_name" content="SpenceNasty.github.io" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Welcome to Squared Away Home Inspections","url":"https://spencenasty.github.io/","name":"SpenceNasty.github.io","description":"Squared Away Home Inspections","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/assets/css/style.css?v=6dbaca77f0d9b5839acd67bceacb25158b64ae19">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">SpenceNasty.github.io</h1>
+      <h2 class="project-tagline">Squared Away Home Inspections</h2>
+      
+      
+    </section>
 
-### Markdown
+    <section class="main-content">
+      <h2 id="welcome-to-squared-away-home-inspections">Welcome to Squared Away Home Inspections</h2>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p>You can use the <a href="https://github.com/SpenceNasty/SpenceNasty.github.io/edit/master/index.md">editor on GitHub</a> to maintain and preview the content for your website in Markdown files.</p>
 
-```markdown
-Syntax highlighted code block
+<p>Whenever you commit to this repository, GitHub Pages will run <a href="https://jekyllrb.com/">Jekyll</a> to rebuild the pages in your site, from the content in your Markdown files.</p>
 
-# Header 1
-## Header 2
-### Header 3
+<h3 id="markdown">Markdown</h3>
 
-- Bulleted
-- List
+<p>Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for</p>
 
-1. Numbered
-2. List
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Syntax highlighted code block
 
-**Bold** and _Italic_ and `Code` text
+<span class="gh"># Header 1</span>
+<span class="gu">## Header 2</span>
+<span class="gu">### Header 3</span>
+<span class="p">
+-</span> Bulleted
+<span class="p">-</span> List
+<span class="p">
+1.</span> Numbered
+<span class="p">2.</span> List
 
-[Link](url) and ![Image](src)
-```
+<span class="gs">**Bold**</span> and _Italic_ and <span class="sb">`Code`</span> text
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<span class="p">[</span><span class="nv">Link</span><span class="p">](</span><span class="sx">url</span><span class="p">)</span> and !<span class="p">[</span><span class="nv">Image</span><span class="p">](</span><span class="sx">src</span><span class="p">)</span>
+</code></pre></div></div>
 
-### Jekyll Themes
+<p>For more details see <a href="https://guides.github.com/features/mastering-markdown/">GitHub Flavored Markdown</a>.</p>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SpenceNasty/SpenceNasty.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<h3 id="jekyll-themes">Jekyll Themes</h3>
 
-### Support or Contact
+<p>Your Pages site will use the layout and styles from the Jekyll theme you have selected in your <a href="https://github.com/SpenceNasty/SpenceNasty.github.io/settings">repository settings</a>. The name of this theme is saved in the Jekyll <code class="highlighter-rouge">_config.yml</code> configuration file.</p>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h3 id="support-or-contact">Support or Contact</h3>
+
+<p>Having trouble with Pages? Check out our <a href="https://help.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
+
+
+      <footer class="site-footer">
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </section>
+
+    
+  </body>
+</html>
