@@ -1,256 +1,293 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<!--[if lt IE 7 ]> <html class="ie6" xmlns="http://www.w3.org/1999/xhtml" lang="en-US" > <![endif]-->
-<!--[if IE 7 ]>    <html class="ie7" xmlns="http://www.w3.org/1999/xhtml" lang="en-US" > <![endif]-->
-<!--[if IE 8 ]>    <html class="ie8" xmlns="http://www.w3.org/1999/xhtml" lang="en-US" > <![endif]-->
-<!--[if IE 9 ]>    <html class="ie9" xmlns="http://www.w3.org/1999/xhtml" lang="en-US" > <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!--> <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" > <!--<![endif]-->
+
+
+
+
+
+<!doctype html>
+<!--[if lt IE 7]>      <html class="no-js ie6 lt-ie10 lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js ie7 lt-ie10 lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js ie8 lt-ie10 lt-ie9"> <![endif]-->
+<!--[if IE 9]>         <html class="no-js ie9 lt-ie10"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js">
+<!--<![endif]-->
+
+
 <head>
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	
-	<title>Home Inspections by Trusted Home Inspections Mansfield,TX</title>
-	
-	<!-- //////// Favicon ////////  -->
-	<link href="http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/favicon.ico" rel="shortcut icon" type="image/x-icon" />
-	
-	<script type="text/javascript">
-		var themePath = 'http://www.trustedhomeinspections.com/wp-content/themes/solid-wp';
-		var themeCufon = 'true';
-		var themeSliderTimeout = 5000;
-		
-		var msg_newsletter_error = 'please enter a valid email...';
-		var msg_newsletter_label = 'subscribe to newsletter...';
-		
-	</script>
-	
-	<link rel="alternate" type="application/rss+xml" title="Trusted Home Inspections &raquo; Feed" href="http://www.trustedhomeinspections.com/feed" />
-<link rel="alternate" type="application/rss+xml" title="Trusted Home Inspections &raquo; Comments Feed" href="http://www.trustedhomeinspections.com/comments/feed" />
-<link rel="alternate" type="application/rss+xml" title="Trusted Home Inspections &raquo; homepage Comments Feed" href="http://www.trustedhomeinspections.com/homepage/feed" />
-		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.trustedhomeinspections.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.18"}};
-			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel='stylesheet' id='theme-style-css'  href='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/style.css?ver=4.3.18' type='text/css' media='all' />
-<link rel='stylesheet' id='theme-skin-css'  href='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_skins/default.css?ver=4.3.18' type='text/css' media='all' />
-<link rel='stylesheet' id='theme-style-print-css'  href='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/style-print.css?ver=1.0' type='text/css' media='print' />
-<link rel='stylesheet' id='plugin-tipsy-css-css'  href='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/tipsy/css.tipsy.css?ver=4.3.18' type='text/css' media='all' />
-<link rel='stylesheet' id='plugin-prettyPhoto-css-css'  href='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/prettyphoto/css.prettyPhoto.css?ver=4.3.18' type='text/css' media='all' />
-<link rel='stylesheet' id='plugin-validity-css-css'  href='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/validity/css.validity.css?ver=4.3.18' type='text/css' media='all' />
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/plugins/si-contact-form/captcha-secureimage/ctf_captcha.js?ver=4.3.18'></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.trustedhomeinspections.com/xmlrpc.php?rsd" />
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.trustedhomeinspections.com/wp-includes/wlwmanifest.xml" /> 
-<meta name="generator" content="WordPress 4.3.18" />
-<link rel='canonical' href='http://www.trustedhomeinspections.com/' />
-<link rel='shortlink' href='http://www.trustedhomeinspections.com/' />
-<meta name="description" content="If you live in, or are thinking of moving to, North Central Texas then Dale Miller of Trusted Home Inspections is the right inspector for you." />
-<meta name="keywords" content="property inspector, property inspections, commercial property inspector, commercial property inspections home inspector, certified home inspector" />
-<script  type="text/javascript">var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-20502035-1']);
-  _gaq.push(['_trackPageview']);
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script></head>
-<body class="home page page-id-133 page-template-default"> 
-	<div id="wrap">
+   
+	<meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1">
+
+    <title>Adult Swim - Choir</title>
+
+    <meta content="" name="description" />
+    <meta content="" name="keywords" />
+    <meta content="https://i.cdn.turner.com/adultswim/tools/img/search_thumb.jpg" name="thumbnail" />
+
+    <link rel="image_src" type="img/jpg" href="https://i.cdn.turner.com/adultswim/tools/img/search_thumb.jpg" />
+    <link rel="canonical" href="https://www.adultswim.com/" />
+    <link rel="publisher" href="https://plus.google.com/110139477464442370133" />
+
+    <meta property="og:title" content="Adult Swim - Choir" />
+    <meta property="og:description" content="" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.adultswim.com/etcetera/choir/" />
+    <meta property="og:image" content="http://d21u3ic0kp9e91.cloudfront.net/meta/choir.jpg" />
+    <meta property="og:site_name" content="Adult Swim" />
+    <meta property="fb:app_id" content="222143901136511" />
+    <meta name="twitter:site" content="@adultswim" />
+
+	<link rel="stylesheet" href="https://use.typekit.net/tok7wbk.css">
 	
-		<noscript>
-			<link href="http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/style-nojs.css" rel="stylesheet" type="text/css" /> 
-			<div class="nojs-warning"><strong>JavaScript seems to be Disabled!</strong> Some of the website features are unavailable unless JavaScript is enabled.</div>
-		</noscript>
-		
-		<div id="header">
-		<!-- ///   HEADER   /////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-		
-			<div class="row dropdown-container fixed">
-			
-				<div class="col-220">
-				
-					<a href="http://www.trustedhomeinspections.com" title="Back Home" id="logo"><img src="http://demo.trustedhomeinspections.com/wp-content/uploads/2011/07/THI_logo_2.jpg" alt="" /></a>				
-				</div><!-- end .col-220 -->	
-				<div class="col-700 last">
+    <link rel="stylesheet" href="https://z.cdn.turner.com/adultswim/tools/css/global.css" />
+    
+    <link rel="stylesheet" type="text/css" href="../tools/css/styles.css" media="screen" />
+    
 
-					<div class="text-right header-widget">
-									<div class="textwidget"><p>For additional information call: <strong>(817) 988-2721</strong></p>
-</div>
-							</div>
-					<div class="menu-top-menu-container"><ul id="dropdown-menu" class="menu"><li id="menu-item-163" ><a href="http://www.trustedhomeinspections.com/common-problem-areas">Common Problem Areas</a></li>
-<li id="menu-item-166" ><a href="http://www.trustedhomeinspections.com/inspection-services">Inspections Services</a></li>
-<li id="menu-item-170" ><a href="http://www.trustedhomeinspections.com/inspection-overview">Inspection Overview</a></li>
-<li id="menu-item-171" ><a href="http://www.trustedhomeinspections.com/contact-us">Contact Us</a></li>
-</ul></div>				</div><!-- end .col-700 -->	
-				
-			</div><!-- end .row -->
-			
-			<div class="hr"></div>
+    <script src="../tools/js/jquery.min.js"/>
+    <script src="//nexus.ensighten.com/turner/adsm-prod/Bootstrap.js"></script>
+    <script src="https://z.cdn.turner.com/adultswim/tools/lib/modernizr/modernizr.js"></script>
+    <script src="https://i.cdn.turner.com/analytics/adultswim/ais.js"></script>
+    
+    <script src="../tools/js/gradient.js"></script>
 
-		<!-- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-		
-		</div><!-- end #header -->
-		
-		<div id="content" class="fixed">
-			 
-							<div class="row slideshow-container no-print fixed">
-								<div id="slideshow-index">
-									<ul><li><img src="http://www.trustedhomeinspections.com/wp-content/uploads/2011/08/Banner_1-940x350.jpg" width="940" height="350" alt="" /></li><li><img src="http://www.trustedhomeinspections.com/wp-content/uploads/2011/08/thi_banner-940x350.jpg" width="940" height="350" alt="" /></li><li><img src="http://www.trustedhomeinspections.com/wp-content/uploads/2011/08/Banner2-940x350.jpg" width="940" height="350" alt="" /></li></ul>
-									<div id="index-slideshow-pager">&nbsp;</div>
-								</div> 
-							</div>
-							
-							<div class="hr"></div><div class="row fixed">
-<div class="col-220 ">
-<img class="alignnone size-full wp-image-216" title="Home Inspector" src="http://www.trustedhomeinspections.com/wp-content/uploads/2011/08/weonly.png" alt="" width="148" height="34" /></p>
-<h1>Home Inspections</p>
-</h1>
-<p>Home inspections are our only business. We are impartial and work only for you. Our job is to provide you with a comprehensive, fair, independent, objective evaluation so that you can understand and take care of your valuable investment. Your interests are our interests before, during, and after the inspection.</p>
-<p>We are fully bonded and insured!<br />
-Believe it or not most home inspectors aren&#8217;t. To learn more about why we are the right inspector for you click here
-</p></div>
-<div class="col-700  last">
-<div class="col-220 ">
-<h3><a title="Prices" href="http://trustedhomeinspections.com/home-inspection-prices" rel="nofollow">Offering Full Service </a> <br /> Inspections to all of North Central Texas</h3>
-</div>
-<div class="col-460  last">
-<p class="text-right"><img src="http://demo.trustedhomeinspections.com/wp-content/uploads/2011/07/calltodaydale.jpg" alt="" /></p>
-</div>
-<ul id="services-overview" class="fixed">
-<li class="first">
-<h5><a href="/sample-report">Sample Report</a></h5>
-<p>We take our inspection reports seriously. Every report includes a clear description of what we’ve found with any problem areas noted, so you can easily identify them.</p>
-<h3>View a sample report<a href="/sample-report" rel="nofollow">Here</a></h3>
-<div><img src="http://demo.trustedhomeinspections.com/wp-content/uploads/2011/07/icon_pdf-160x100.jpg" alt="Sample Report" width="180" height="100" /></div>
-</li>
-<li>
-<h5><a href="/common-problem-areas" rel="nofollow">Common Problem Areas</a></h5>
-<p>Although these types of problems bear serious consideration, they are not necessarily reason to pass over an otherwise perfectly good home.</p>
-<p>In fact, these problems can often be corrected inexpensively to protect both life and property.</p>
-<div><img src="http://demo.trustedhomeinspections.com/wp-content/uploads/2011/07/icon_problem-160x100.jpg" alt="Common Problem Areas" width="180" height="100" /></div>
-</li>
-<li>
-<h5><a href="/inspection-overview">Inspection Overview</a></h5>
-<p>A professional home inspection gives you an complete and thorough analysis.It is a independent, unbiased view of any problems and their solutions, so that you will have all the facts you need to make a sound, informed decision when it comes time.</p>
-<div><img src="http://demo.trustedhomeinspections.com/wp-content/uploads/2011/07/icon_checklist-160x100.jpg" alt="Inspection Overview" width="180" height="100" /></div>
-</li>
-</ul>
-</div>
-</div>
-<div class="hr "></div>
-<div class="row fixed">
-<div class="col-220 ">
-<h3>About Us </p>
-</h3>
-<p>It is critical to choose the right inspector for one of the most important emotional decisions and financial investments that you will ever make. If you live in, or are thinking of moving to, North Central Texas, then Dale Miller of Trusted Home Inspections is the right inspector for you. With more than three decades of industry experience and a commitment to quality customer service.<br />
-<a title="About" href="http://www.trustedhomeinspections.com/about-us">more about us</a><br />
-<a title="TRUSTED HOME INSPECTIONS BBB Business Review" href="http://www.bbb.org/fort-worth/business-reviews/home-inspection-service/trusted-home-inspections-in-kennedale-tx-191924926/#bbbonlineclick" target="_BLANK"><img src="http://ourbbbonline2.bbb.org/fort-worth/BBBOnlineSeal/191924926/H1/0/seal.png" alt=" TRUSTED HOME INSPECTIONS BBB Business Review" border="0" /></a>
-</div>
-<div class="col-220 ">
-<img src="http://demo.trustedhomeinspections.com/wp-content/uploads/2011/07/dalemiller2.jpg" alt="" />
-</div>
-<div class="col-460  last">
-<blockquote class="clear "><p> The inspection provides an invaluable learning and discovery experience during which your questions can be answered on the spot. You will gain insight into maintenance and energy conservation tailored specifically to your home.<br /><span>Dale Miller, Trusted Home Inspections ,PLLC</span></p>
-</blockquote>
-<div class="hr "></div>
-<p><a title="Nachi" href="http://www.nachi.org/verify.php?nachiid=NACHI06070380" target="_blank"></p>
-<div class="client-small mright">
-<div style="background:url(http://demo.trustedhomeinspections.com/wp-content/uploads/2011/07/nachi-cert.gif) no-repeat center center;" class="client-logo"></div>
-</div>
-<p></a></p>
-<div class="client-small mright">
-<div style="background:url(http://www.trustedhomeinspections.com/wp-content/themes/trustedhome/images/logo_15.jpg) no-repeat center center;" class="client-logo"></div>
-</div>
-<div class="client-small mright">
-<div style="background:url(http://www.trustedhomeinspections.com/wp-content/themes/trustedhome/images/logo_16.jpg) no-repeat center center;" class="client-logo"></div>
-</div>
-<div class="client-small mright">
-<div style="background:url(http://www.trustedhomeinspections.com/wp-content/uploads/2011/10/nawt-100-100.jpg) no-repeat center center;" class="client-logo"></div>
-</div>
-</div>
-</div>
-		</div>	
-	
+    
+	<style>
+    .social-holder{
 
-		<div id="footer">
-		
-		<!-- ///   FOOTER   //////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
+        position: absolute;
+        padding-top: 15px;
+        padding-left: 4px;
+        height: 25px;
+        width: 300px;
+        z-index:100;
 
-			<div class="hr"></div>	
-			
-			<div class="row fixed">
-								
-				<div class="col-220">
-					<div id="text-4" class="widget widget_text">			<div class="textwidget"><p><strong>&copy; 2014 Trusted Home Inspections</strong></p>
-<p class="last"> All right are reserved. <br /><a href="#">Terms of Service</a> | <a href="http://trustedhomeinspections.com/privacy-policy" rel="nofollow">Privacy Policy</a></p>
-<p><a href="http://www.trec.state.tx.us/pdf/forms/miscellaneous/cn1-2.pdf"><br />
-&#8220;Texas Real Estate Commission Consumer Protection Notice&#8221;</a></p>
-</div>
-		</div>				</div><!-- end .col-220 -->
-				
-				<div class="col-220">
-					<div id="text-5" class="widget widget_text">			<div class="textwidget"><p><strong>Contact Info</strong></p>
-<p class="last">PO BOX 1241<br />Kennedale, T. X. 76060, <br />T: (817)988-2721</p>
-</div>
-		</div>				</div><!-- end .col-220 -->
-				
-				<div class="col-220">
-					<div id="text-6" class="widget widget_text">			<div class="textwidget"><p><strong>Connect with us</strong></p>
-<form method="get" action="#" id="newsletter-subscribe">
-<fieldset>
-							<input type="text" onblur="if(this.value=='') this.value='subscribe to newsletter...'" onfocus="if(this.value=='subscribe to newsletter...')this.value='';" value="subscribe to newsletter..." id="subscribe-email" class="text" /><br />
-							<input type="submit" value="submit" class="subscribe-submit-btn" /><br />
-						</fieldset>
-</form>
-<ul id="social-media" class="fixed">
-<li><img src="http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/images/social-icons/facebook.png" width="14" height="14" alt="facebook" /><a href="http://www.facebook.com/pages/Trusted-Home-Inspections/198022233588144">Join Us on Facebook</a></li>
-<li><img src="http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/images/social-icons/twitter.png"  width="14" height="14" alt="twitter" /><a href="http://twitter.com/TrustedHomeIns">Twitter</a></li>
-</ul>
-</div>
-		</div>				</div><!-- end .col-220 -->
-				
-				<div class="col-220 last">
-					<div id="text-8" class="widget widget_text">			<div class="textwidget"><p>Offering Full Service Inspections in Arlington TX , Kennedale TX, Mansfield TX , and all of North Central Texas<br />
-We accept all major cc<br />
-<img src="http://www.trustedhomeinspections.com/wp-content/uploads/2014/03/Credit-Card-Logos-e1394317237755.jpg" /></p>
-</div>
-		</div>				</div><!-- end .col-220 -->
-			
-			</div><!-- end .row -->
-			
-		<!-- ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// -->
-		
-		</div><!-- end #footer -->
+    }
 
-	<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js?ver=1.5'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/cufon/cufon.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/cufon/cufon-font.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/tipsy/jquery.tipsy.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/prettyphoto/jquery.prettyPhoto.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/validity/jquery.validity.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/cycle/jquery.cycle.all.min.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/tabify/jquery.tabify-1.4.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/accordion/jquery.accordion.js?ver=1.0'></script>
-<script type='text/javascript' src='http://maps.google.com/maps?file=api&#038;v=2&#038;key=ABQIAAAAbAjJOQtJvVIO-RYO161E0BTwGoaTYq9xRH0NdKOx76R2cI8B1hRWm5gFZli5tWbgNcpMvkj7iq3v1Q&#038;ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/gmap/jquery.gmap-1.1.0-min.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/scripts.js?ver=1.0'></script>
-<script type='text/javascript' src='http://www.trustedhomeinspections.com/wp-content/themes/solid-wp/_layout/js/plugins.js?ver=1.0'></script>
-	
-	</div><!-- end #wrap -->
+    #social-top-right{
+        right: 4px;
+    }
+    
+    #social-top-left{
+        left: 4px;
+    }
+    
+    #social-bottom-right{
+        right: 4px;
+        margin-top: calc(100vh - 200px);
+    }
+    
+    #social-bottom-left{
+        left: 4px;
+        margin-top: calc(100vh - 200px);
+    }
+    
+    .social-button-holder{
+        float: left;
+        margin-left: 10px;
+    }
+    
+    /*
+    .socialBottom .fb-like span iframe{
+        margin-top:-118px;
+    }
+    */
+    
+</style>	<script>
+        var strPageName = 'Choir',
+            strSectionName = 'Etcetera',
+            strSubSectionName = '';
+    </script>
+    
+</head>
 
-	
+<body>
+
+
+<!-- edge dub dub dub -->
+<!-- BEGIN [as] global nav -->
+<div id="global-nav" class="asnav" role="banner">
+    <div class="asnav-logo-and-control">
+        <div class="asnav-logo">
+            <a href="https://www.adultswim.com/" aria-label="Homepage">
+                <img class="asnav-logo-image" src="https://i.cdn.turner.com/adultswim/big/img/2018/12/17/logo.png" title="Adult Swim" alt="Adult Swim" aria-hidden="true" />
+                <div class="asnav-logo-rollover" aria-hidden="true">
+                    <img src="https://i.cdn.turner.com/adultswim/big/img/2018/03/26/headV3_1.gif" alt="" />
+                </div>
+            </a>
+        </div>
+        <div class="asnav-control">
+            <div class="asnav-control__handle" aria-label="Toggle navigation" aria-expanded="false" aria-haspopup="true" aria-controls="global-nav-content" role="button">
+                <img class="asnav-control__open-svg" src="https://i.cdn.turner.com/adultswim/big/img/home/ham.svg" aria-hidden="true" alt="Open navigation" />
+                <img class="asnav-control__close-svg" src="https://i.cdn.turner.com/adultswim/big/img/home/x.svg" aria-hidden="true" alt="Close navigation" />
+            </div>
+        </div>
+    </div>
+    <div id="global-nav-content" class="asnav-content">
+        <nav class="asnav-content__nav" aria-label="Global">
+            <ul class="asnav-content__links">
+                <li>
+                    <a id="global-nav__shows" href="https://www.adultswim.com/videos/">Shows</a>
+                </li>
+                <li>
+                    <a id="global-nav__streams" href="https://www.adultswim.com/streams/">Streams</a>
+                </li>
+                <li>
+                    <a id="global-nav__toonami" href="http://www.adultswim.com/toonami/">Toonami</a>
+                </li>
+                <li>
+                    <a id="global-nav__music" href="http://www.adultswim.com/music/">Music</a>
+                </li>
+                <li>
+                    <a id="global-nav__games" href="https://www.adultswim.com/games/">Games</a>
+                </li>
+                <li>
+                    <a id="global-nav__schedule" href="https://www.adultswim.com/schedule/">Schedule</a>
+                </li>
+                <li>
+                    <a id="global-nav__comics" href="http://www.adultswim.com/comics/">Comics</a>
+                </li>
+                <li>
+                    <a id="global-nav__keithcrofford" href="http://www.adultswim.com/etcetera/">Keith</a>
+                </li>
+                <li>
+                    <a id="global-nav__apps" href="http://www.adultswim.com/apps/">Apps</a>
+                </li>
+                <li>
+                    <a id="global-nav__simulcast" href="https://www.adultswim.com/simulcast/">Live Simulcast</a>
+                </li>
+            </ul>
+        </nav>
+        <div id="global-nav-search" class="asnav-content__search">
+            <form action="https://www.adultswim.com/search" method="get" role="search">
+                <input aria-labelledby="global-nav-search__button" type="text" name="q" placeholder="SEARCH" minlength="1" autocomplete="off" spellcheck="false" />
+                <button id="global-nav-search__button" aria-label="search" type="submit">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+                        <path d="M19.7,18.3L16,14.6A9.1,9.1,0,0,0,18,9a9,9,0,1,0-9,9,8.53,8.53,0,0,0,5.6-2l3.7,3.7a1,1,0,0,0,1.4,0A1,1,0,0,0,19.7,18.3ZM2,9A7,7,0,0,1,16,9a7,7,0,0,1-2,4.9h0a6.8,6.8,0,0,1-4.9,2A6.84,6.84,0,0,1,2,9Z" />
+                    </svg>
+                </button>
+            </form>
+        </div>
+        <div class="asnav-content__login" data-asnav="login"></div>
+    </div>
+    <script>
+        var NAV_ROLLOVER_IMAGES = ["https://i.cdn.turner.com/adultswim/big/img/2018/11/07/rick%26mortyRotateSized_1.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/11/02/squirting-compressor.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/09/25/harv_2.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/07/30/BROCK.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/07/10/rollover_swerl2.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/05/15/templateMid_GATO.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/04/27/halftomz_1.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/04/27/claps.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/04/27/harrigan-compressor.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/04/26/dogManX.gif", "https://i.cdn.turner.com/adultswim/big/img/2018/04/20/eye.gif"];
+        var NAV_KEITH_TEXT = ["Keith"];
+    </script>
+</div>
+<!-- END [as] global nav -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=256514554508439";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<div class="social-holder" id="social-top-left">
+        
+        <div class="social-button-holder">
+            <div class="fb-like"data-send="true" data-layout="button" data-show-faces="true"></div>
+        </div>
+
+        <div class="social-button-holder">
+            
+            <a href="https://twitter.com/share" class="twitter-share-button" data-count="none">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^https:/.test(d.location)?'https':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+            
+           
+        </div>
+      
+</div>
+<div id="grad"></div>
+
+<div id="container-holder">
+
+
+<iframe id="appPlayer" src="http://d21u3ic0kp9e91.cloudfront.net/choir/04/index.html" ></iframe>
+
+<div id="down-arrow" onclick="handleArrowClick()" class="section-titles-down-arrow">
+    <!--<a href="/etcetera/">-->
+    <img id="down-arrow-img" src="../tools/imgs/down-arrow.svg">
+    <!--</a>-->
+</div>
+
+<div id="related-projects" >
+
+    <div class="section-titles">
+        <!--<a href="/etcetera/">-->
+            More Internets
+        <!--</a>-->
+    </div>
+    
+    <a href = '../lost/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/lost-thumb.jpg'/><div class='project-thumbs-title'>Still Lost, Here's A Tunnel<br/><div class='project-thumbs-CTA'>WATCH NOW</div></div></a><a href = '../choir/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/choir-thumb.jpg'/><div class='project-thumbs-title'>Choir<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../smash-n-dab/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/smash-n-dab.jpg'/><div class='project-thumbs-title'>Smash 'n Dab<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../drone-sport/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/dronesport.jpg'/><div class='project-thumbs-title'>Drone Sport<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../fest/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/fest.jpg'/><div class='project-thumbs-title'>Fest<br/><div class='project-thumbs-CTA'>WATCH NOW</div></div></a><a href = '../sidewalk-sidestep/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/sidewalk-sidestep.jpg'/><div class='project-thumbs-title'>Sidewalk Sidestep<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../bakey-cakey/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/bakey-cakey.jpg'/><div class='project-thumbs-title'>Bakey Cakey<br/><div class='project-thumbs-CTA'>WATCH NOW</div></div></a><a href = '../elastic-man/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/elastic-man.jpg'/><div class='project-thumbs-title'>Elastic Man<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../gecko/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/gecko-redemption.jpg'/><div class='project-thumbs-title'>Gecko Ridemption<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../bdmh/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/big-dank-meme-hunter.jpg'/><div class='project-thumbs-title'>Big Dank Meme Hunter<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../home-makeover/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/home-makeover.jpg'/><div class='project-thumbs-title'>Home Makeover<br/><div class='project-thumbs-CTA'>WATCH NOW</div></div></a><a href = '../face-lift/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/face-lift.jpg'/><div class='project-thumbs-title'>Face Lift<br/><div class='project-thumbs-CTA'>WATCH NOW</div></div></a><a href = '../canadian-dream/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/canadian-dream.jpg'/><div class='project-thumbs-title'>Canadian Dream<br/><div class='project-thumbs-CTA'>WATCH NOW</div></div></a><a href = '../soup/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/soup.jpg'/><div class='project-thumbs-title'>Character Soup<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../limp-body-beat/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/limp-body-beat.jpg'/><div class='project-thumbs-title'>Limp Body Beat<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../feed-frank/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/feed-frank.jpg'/><div class='project-thumbs-title'>Feed Frank<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../meatharvest/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/miami-meat-harvest.jpg'/><div class='project-thumbs-title'>Miami Meat Harvest<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../zoom/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/zoom-quilt.jpg'/><div class='project-thumbs-title'>Zoom Quilt<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../asazz/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/azz.jpg'/><div class='project-thumbs-title'>Azz Sequencer<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../pretty-gross-2/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/pimpus.jpg'/><div class='project-thumbs-title'>Pimpus<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../fancy-lad/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/fancy-lad.jpg'/><div class='project-thumbs-title'>Fancy Lad<br/><div class='project-thumbs-CTA'>WATCH NOW</div></div></a><a href = '../pretty-gross/' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/pretty-gross.jpg'/><div class='project-thumbs-title'>Barfus<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../very-man/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/very-man.jpg'/><div class='project-thumbs-title'>Veryman<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../hollow-da-don/' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/hollow.jpg'/><div class='project-thumbs-title'>Hollow Da Don<br/><div class='project-thumbs-CTA'>WATCH NOW</div></div></a><a href = '../extras/index.php?id=1c' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-bear-wetness.jpg'/><div class='project-thumbs-title'>Bear Wetness<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=3b' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-breakfast-sausages.jpg'/><div class='project-thumbs-title'>Breakfast Sausages<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=4d' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-burlesque.jpg'/><div class='project-thumbs-title'>Burlesque<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=2d' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-carbs2.jpg'/><div class='project-thumbs-title'>Carbs 2.0<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=5a' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-cult-of-personality.jpg'/><div class='project-thumbs-title'>Cult Of Personality<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=2b' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-dog-lovers.jpg'/><div class='project-thumbs-title'>Dog Lovers<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=4c' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-drought.jpg'/><div class='project-thumbs-title'>Drought<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=6b' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-free-delivery.jpg'/><div class='project-thumbs-title'>Free Delivery<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=3c' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-fries.jpg'/><div class='project-thumbs-title'>Fries<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=2a' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-i-think.jpg'/><div class='project-thumbs-title'>I Think<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=1b' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-leotardo.jpg'/><div class='project-thumbs-title'>Leotardo<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=3a' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-manum-pee-eye-2.png'/><div class='project-thumbs-title'>Magnum Pee Eye<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=6a' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-my-goal.jpg'/><div class='project-thumbs-title'>My Goal<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=4a' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-nachos-thirst.jpg'/><div class='project-thumbs-title'>Nachos Thirst<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=5b' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-online-shopping.jpg'/><div class='project-thumbs-title'>Online Shopping<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=6d' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-opened-barndoor.jpg'/><div class='project-thumbs-title'>Opened Barndoor<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=4b' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-photo-album.jpg'/><div class='project-thumbs-title'>Photo Album<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=3d' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-place-is-the-space.jpg'/><div class='project-thumbs-title'>Place Is The Space<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=6c' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-psychotic-hottie.jpg'/><div class='project-thumbs-title'>Phsycotic Hottie<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=1a' class='project-thumbs-related hide-mobile' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-stan-cares.jpg'/><div class='project-thumbs-title'>Satan Cares<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=5d' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-temptation.jpg'/><div class='project-thumbs-title'>Temptation<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=5c' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-total-eclipse.jpg'/><div class='project-thumbs-title'>Total Eclipse<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a><a href = '../extras/index.php?id=1d' class='project-thumbs-related' ><img src='http://d21u3ic0kp9e91.cloudfront.net/etc-thumbs/etc-ysssup.jpg'/><div class='project-thumbs-title'>Yssup<br/><div class='project-thumbs-CTA'>PLAY NOW</div></div></a>    <div class="clear"></div>
+
+</div>
+<script type="text/javascript">
+    
+    var canScroll = true;
+    
+    $(document).ready(function(){
+        $("body").css("overflow-y","hidden");   
+        $("#down-arrow").show();
+        window.addEventListener( 'resize', onWindowResize, false );
+        
+        doIframeResize();
+    
+        $( window ).scroll(function() {
+            
+            var st = $(document).scrollTop();
+            
+            if(st>1){
+                $("body").css("overflow-y","auto");   
+                $("#down-arrow").hide();
+            }else{
+                $("body").css("overflow-y","hidden");   
+                $("#down-arrow").show();
+            }
+
+        });
+
+   })
+
+    function handleArrowClick(){
+        
+        if( $('html, body').scrollTop() < 1 ){
+
+            if(canScroll){
+
+                canScroll = false;
+                
+                $('html, body').animate({scrollTop: 500}, 700, function(){
+                    canScroll = true;
+                });
+            }
+        }
+
+    }
+    
+    
+    function onWindowResize() {
+        doIframeResize();
+    }
+    
+    function doIframeResize(){
+
+        if(document.getElementById("global-nav") != null){
+            document.getElementById("appPlayer").style.height = (window.innerHeight - document.getElementById("global-nav").clientHeight) + "px";
+        }
+
+    }
+
+</script>
+
+
+	</div>
+
+	<script src="https://z.cdn.turner.com/adultswim/tools/js/global.js"></script>
+
 </body>
+
 </html>
