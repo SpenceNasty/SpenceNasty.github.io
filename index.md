@@ -39,5 +39,5 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 <!-- Start of CuterCounter Code -->
-<a href="http://www.cutercounter.com/" target="_blank"><img src="http://www.cutercounter.com/hit.php?id=grumnxcqd&nd=6&style=50" border="0" alt="hit counter"></a>
+<a href="http://www.cutercounter.com/" target="_blank"><img src="http://www.cutercounter.com/hit.php?id=grumnxcqd&nd=6&style=50" border="50" alt="hit counter"></a>
 <!-- End of CuterCounter Code -->
