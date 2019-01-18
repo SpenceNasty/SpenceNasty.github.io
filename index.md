@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-https://i.imgur.com/bKcRLTc.gif?1
+<blockquote class="imgur-embed-pub" lang="en" data-id="bKcRLTc"><a href="//imgur.com/bKcRLTc">DUANE!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <iframe width="1120" height="630" src="https://i.imgur.com/bKcRLTc.gif?1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
