@@ -36,9 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="bKcRLTc"><a href="//imgur.com/bKcRLTc">DUANE!</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-<iframe width="1120" height="630" src="https://i.imgur.com/bKcRLTc.gif?1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style=”width: 25%; height: 50px; overflow: auto; scrollbar-face-color: #CE7E00; scrollbar-shadow-color: #FFFFFF; br /scrollbar-highlight-color: #6F4709; scrollbar-3dlight-color:#11111; scrollbar-darkshadow-color: #6F4709; br /scrollbar-track-color: #FFE8C1; scrollbar-arrow-color: #6F4709;”>Your text will show here. And you can scroll down to go through all of it. You just have to add a sufficient amount of text to make the scrollbars show. Obviously, this is not enough,o let’s assume we have a little more to say. Eventually, the scrollbars will come in handy. That’s it! :)</div>
 
 <!-- Start of CuterCounter Code -->
 <a href="http://www.cutercounter.com/" target="_blank"><img src="http://www.cutercounter.com/hit.php?id=grumnxcqd&nd=6&style=50" border="0" alt="hit counter"></a>
